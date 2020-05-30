@@ -1,0 +1,3 @@
+﻿  WienerFiltering.cpp
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\Work2\WienerFiltering.cpp(93,60): warning C4305: “参数”: 从“double”到“float”截断
+  Work2.vcxproj -> C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\x64\Debug\Work2.exe

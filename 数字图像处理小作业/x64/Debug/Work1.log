@@ -1,0 +1,54 @@
+﻿  RGBtoCMYHSI.cpp
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(23,36): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(24,36): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(25,36): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(40,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(41,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(42,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(56,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(58,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(68,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(72,29): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(73,29): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(74,32): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(95,29): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(96,29): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(97,29): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\RGBtoCMYHSI.cpp(112,15): warning C4305: “初始化”: 从“double”到“float”截断
+  Work1.vcxproj -> C:\Users\11039\Documents\Visual Studio 2019\数字图像处理作业\x64\Debug\Work1.exe
